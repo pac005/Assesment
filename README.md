@@ -4,7 +4,7 @@
 3) Open Salesforce Workbench
 4) Connect it to a Salesforce Org
 5) Migration > Deploy
-6) Upload the zip folder that already contains the Package Manifest
+6) Upload the zip folder that already contains the Package Manifest with all the necessary components needed to deploy the application.
 7) Select Rollback on Error
 8) Test Level: Run Specified Test: CareBenefitCalloutTest
    
