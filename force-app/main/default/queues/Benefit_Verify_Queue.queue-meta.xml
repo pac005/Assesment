@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Queue xmlns="http://soap.sforce.com/2006/04/metadata">
+    <doesSendEmailToMembers>true</doesSendEmailToMembers>
+    <name>Benefit Verify Queue</name>
+    <queueMembers>
+        <users>
+            <user>drayap05-zdvp@force.com</user>
+            <user>insightsintegration@00dao00001i5afleaj.ext</user>
+            <user>jrose@email.com</user>
+        </users>
+    </queueMembers>
+    <queueSobject>
+        <sobjectType>CoverageBenefit</sobjectType>
+    </queueSobject>
+</Queue>

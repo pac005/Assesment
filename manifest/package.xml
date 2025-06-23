@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>CareBenefitCallout</members>
+		<members>CareBenefitCalloutTest</members>
+		<members>CareBenefitVerifyWrapper</members>
+		<name>ApexClass</name>
+	</types>
+	<types>
+		<members>Account</members>
+		<members>Account</members>
+		<members>CareBenefitVerifyRequest</members>
+		<members>MemberPlan</members>
+		<members>Service_Detail__c</members>
+		<name>CustomObject</name>
+	</types>
+	<types>
+		<members>ExternalBenefitVerification</members>
+		<name>ExternalCredential</name>
+	</types>
+	<types>
+		<members>*</members>
+		<name>Flow</name>
+	</types>
+	<types>
+		<members>*</members>
+		<name>NamedCredential</name>
+	</types>
+	<types>
+		<members>*</members>
+		<name>Queue</name>
+	</types>
+	<version>64.0</version>
+</Package>
